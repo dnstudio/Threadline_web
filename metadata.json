@@ -1,0 +1,8 @@
+{
+  "name": "Threadline Health",
+  "description": "Specialist mental health assessment infrastructure for paediatric ADHD, featuring clinician-centred AI decision support and evidence workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
